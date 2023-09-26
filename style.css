@@ -1,0 +1,11 @@
+.table{
+    background: gold;
+    text-align : center;
+}
+
+th tr td{
+    border: 1px solid;
+    padding: 5px; 
+    color:black;
+    background-color: gold; 
+}
